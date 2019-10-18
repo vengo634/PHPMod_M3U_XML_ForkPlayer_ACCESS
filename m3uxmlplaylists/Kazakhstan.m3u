@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,КТК SD
+http://89.218.30.37/ktklive/live.sq/playlist.m3u8
+#EXTINF:-1,КТК HD
+rtmp://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,КТК HD
+http://195.49.213.56/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,ALMATY
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1,QAZAQSTAN
+https://kaztv.rtrk.kz/kaztv_480/kaztv_480/index.m3u8
+#EXTINF:-1,КАЗ-SPORT
+https://kazsport.rtrk.kz/kazsport_480/kazsport_480/index.m3u8
+#EXTINF:-1,КАЗАХ-ТВ world EN
+http://kazakhtven.ultraiptv.com/live_en/playlist3/index.m3u8
+#EXTINF:-1,КАЗАХ-ТВ world KZ
+http://kazakhtvkz.ultraiptv.com/live_kz/playlist.m3u8
+#EXTINF:-1,КАЗАХ-ТВ world RU
+http://kazakhtvru.ultraiptv.com/live_ru/playlist2/index.m3u8
+#EXTINF:-1,HABAR
+https://stream.euroasia.lfstrm.tv/habar/1/index.m3u8
+#EXTINF:-1,7 КАНАЛ
+http://cdn.tv7.kz/7channel_transcoded/tracks-2,1/index.m3u8
+#EXTINF:-1,Atameken SD
+http://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/chunklist_b2724000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.atameken
+#EXTINF:-1,Atameken HD
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1,24 KZ
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.24kz
+#EXTINF:-1,31 КАНАЛ
+http://stream.euroasia.lfstrm.tv/31_kanal/1/index.m3u8
+#EXTINF:-1,MUZ-ZONA
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/chunklist.m3u8
+#EXTINF:-1,Первый Евразия
+https://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,AKTOBE
+http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1,Kostanai
+http://onrez.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1,ORAL
+http://onrez.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1,Balapan
+https://stream.euroasia.lfstrm.tv/balapan/1/index.m3u8
+#EXTINF:-1,Qyzylorda
+http://onrez.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1,TARAZ
+http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1,Караганды
+http://onrez.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1,Asyl Arna
+rtmp://212.154.188.10/live/v_704_768.stream
+#EXTINF:-1,Кокшетау
+http://onrez.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1,Павлодар
+http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1,SEMEY
+http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:0,Дом кино
+http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
+#EXTINF:0,Sony
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+#EXTINF:0,Sony Turbo
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+#EXTINF:0,Russian Music Box
+http://stream.euroasia.lfstrm.tv/musicboxru/1/index.m3u8
+#EXTINF:0,Boomerang
+http://stream.euroasia.lfstrm.tv/boomerang/1/index.m3u8
+#EXTINF:0,Cartoon Network
+http://stream.euroasia.lfstrm.tv/cartoon_network/1/index.m3u8
+#EXTINF:0,Da Vinci
+http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
+#EXTINF:0,Gulli Girl
+http://stream.euroasia.lfstrm.tv/gulli/1/index.m3u8
+#EXTINF:0,TiJi
+http://stream.euroasia.lfstrm.tv/tiji/1/index.m3u8
+#EXTINF:0,Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:0,Бобер
+http://stream.euroasia.lfstrm.tv/bober/1/index.m3u8
+#EXTINF:0,Время
+http://stream.euroasia.lfstrm.tv/vremya/1/index.m3u8
+#EXTINF:0,Детский
+http://stream.euroasia.lfstrm.tv/detskiy/1/index.m3u8
+#EXTINF:0,NOVOE TV
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0,Детский мир
+http://stream.euroasia.lfstrm.tv/detskiy_mir/1/index.m3u8
+#EXTINF:0,Еврокино
+http://stream.euroasia.lfstrm.tv/eurokino/1/index.m3u8
+#EXTINF:0,Ретро
+http://stream.euroasia.lfstrm.tv/retro/1/index.m3u8
+#EXTINF:0,Телекафе
+http://stream.euroasia.lfstrm.tv/telekafe/1/index.m3u8
+#EXTINF:-1,ON! ПЯТНИЦА
+http://109.248.236.41:4433/udp/238.1.1.3:1234
+#EXTINF:-1,CTC International
+http://109.248.236.41:4433/udp/238.1.1.67:1234
